@@ -8,14 +8,15 @@
 
 ---
 
-### 🚀 GitHub 统计
-![Frames's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=radical)
+### 🚀 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=radical)](https://github.com/Cyxuan0311)
 
-### 📊 常用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=radical)
+### 📊 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=radical)](https://github.com/Cyxuan0311)
 
-### ⏳ GitHub 活跃情况
-![GitHub 活跃情况](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyxuan0311&theme=radical)
+### ⏳ GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyxuan0311&theme=radical)](https://github.com/Cyxuan0311)
+
 
 ---
 <!---
