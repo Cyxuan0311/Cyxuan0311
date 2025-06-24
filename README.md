@@ -10,7 +10,7 @@
 
 | GitHub Stats | Top Languages |
 | :----------: | :-----------: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=solarized-light) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=solarized-light) |
 
 
 ---
