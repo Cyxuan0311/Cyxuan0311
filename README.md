@@ -7,7 +7,7 @@
 - 👀 I’m interested in C/C++ && Linux && Operation System.  
 - 😁 I’m studying in college.  
 - 📫 How to reach me: cyxvvv@gmail.com  
-- 😜 <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="24" alt="tongue"/> I like reading and watching movies.
+- 😜 I like reading and watching movies.
 
 
 
