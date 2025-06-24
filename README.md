@@ -8,14 +8,9 @@
 
 ---
 
-### 🚀 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=radical)](https://github.com/Cyxuan0311)
-
-### 📊 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=radical)](https://github.com/Cyxuan0311)
-
-### ⏳ GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyxuan0311&theme=radical)](https://github.com/Cyxuan0311)
+| GitHub Stats | Top Languages |
+| :----------: | :-----------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=dark) |
 
 
 ---
