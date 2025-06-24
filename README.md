@@ -1,14 +1,14 @@
 <p align="center">
-  <!-- 一个挥手动图 -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="32" alt="👋"/>
-  Hi, there!!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave"/>  
+  Hi, there!!!☺️
 </p>
 
-- 👋 <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="24" alt="wave"/> Hi, I’m Frames from China-WuHan.  
-- 👀 <img src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif" width="24" alt="eyes"/> I’m interested in C/C++ && Linux && Operation System.  
-- 😁 <img src="https://media.giphy.com/media/26gsgIkXg8w6syU2w/giphy.gif" width="24" alt="smile"/> I’m studying in college.  
-- 📫 <img src="https://media.giphy.com/media/3o6ZsY4SpbEvqPUM4s/giphy.gif" width="24" alt="mail"/> How to reach me: cyxvvv@gmail.com  
+- 👋 Hi, I’m Frames from China-WuHan.  
+- 👀 I’m interested in C/C++ && Linux && Operation System.  
+- 😁 I’m studying in college.  
+- 📫 How to reach me: cyxvvv@gmail.com  
 - 😜 <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="24" alt="tongue"/> I like reading and watching movies.
+
 
 
 ---
