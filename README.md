@@ -4,7 +4,7 @@
 </p>
 
 - 👋 Hi, I’m Frames from China-WuHan.  
-- 👀 I’m interested in C/C++ && Linux && Operation System.  
+- 👀 I’m interested in C/C++ && AI infra && HPC.  
 - 😁 I’m studying in college.  
 - 📫 How to reach me: cyxvvv@gmail.com  
 - 😜 I like reading and watching movies.
