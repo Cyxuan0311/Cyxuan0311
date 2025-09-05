@@ -29,7 +29,7 @@
 ### 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,pytorch,tensorflow,docker,kubernetes,git,mysql,postgres,linux,cmake" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,pytorch,docker,kubernetes,git,mysql,postgres,linux,cmake,ubuntu,vscode,sublime" />
 </p>
 
 ---
