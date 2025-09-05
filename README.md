@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=blue&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cyxuan0311&theme=dark&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=dark&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
