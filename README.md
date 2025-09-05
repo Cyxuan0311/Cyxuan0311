@@ -1,7 +1,7 @@
 <!-- 动态打字欢迎语 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Hi,+I%E2%80%99m+Frames+from+China-WuHan!;Welcome+to+my+GitHub!;C/C++,+AI+infra+%26+HPC+enthusiast!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61dafb&center=true&vCenter=true&width=600&lines=Hi,+I%E2%80%99m+Frames+from+China-WuHan!;Welcome+to+my+GitHub!;C/Cpp,+AI+infra+%26+HPC+enthusiast!" alt="Typing SVG">
 </p>
 
 ### About Me
