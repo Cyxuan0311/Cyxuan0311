@@ -16,8 +16,8 @@
 ### ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=dark&hide_border=true" height="180em"/>
+  <img src="https://gitee-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=blue&rank_icon=github&hide_border=true" height="180em"/>  
+  <img src="https://gitee-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=yellow&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
