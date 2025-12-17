@@ -30,9 +30,9 @@
 ### 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,go" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,go,javascript,css,html" /><br>  
   <br>
-  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,mysql,postgres,cmake" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,mysql,postgres,cmake,vue,nodejs,electron" /><br>
   <br>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" /><br>
   <br>
