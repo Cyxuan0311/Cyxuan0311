@@ -16,8 +16,9 @@
 ### ⚡ GitHub Stats  
 
 <p align="center">
-  <img src="https://gitee-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=blue&rank_icon=github&hide_border=true" height="180em"/>  
-  <img src="https://gitee-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=compact&theme=yellow&hide_border=true" height="180em"/>
+  <!-- 左侧：GitHub 统计卡片 | 右侧：语言饼图卡片（放大尺寸+优化饼图参数） -->
+  <img src="https://gitee-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=blue&rank_icon=github&hide_border=true&layout=compact" height="280em" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=pie&langs_count=8&hide_border=true&percent=true&size_weight=0&count_weight=1&card_width=500" height="280em" width="50%"/>
 </p>
 
 <p align="center">
