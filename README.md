@@ -13,30 +13,28 @@
 
 ---
 
-### ⚡ GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=donut&langs_count=6&card_width=300&hide_border=true)
-
+### ⚡ GitHub Stats
 <p align="center">
-  <!-- 左侧：GitHub 统计卡片 | 右侧：语言饼图卡片（放大尺寸+优化饼图参数） -->
-  <img src="https://gitee-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=blue&rank_icon=github&hide_border=true&layout=compact" height="280em" width="40%"/>
+  <!-- GitHub 基础统计卡片 -->
+  <img 
+    src="https://gitee-readme-stats.vercel.app/api?username=Cyxuan0311&show_icons=true&theme=blue&rank_icon=github&hide_border=true&layout=compact" 
+    height="280" 
+    width="45%"
+  />
+  <!-- 语言分布饼图卡片 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=donut&langs_count=6&hide_border=true" 
+    height="280" 
+    width="45%"
+  />
 </p>
 
+<!-- 活动趋势图卡片 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyxuan0311&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### 🛠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,go,javascript,css,html" /><br>  
-  <br>
-  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,mysql,postgres,cmake,vue,nodejs,electron" /><br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" /><br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,sublime,vim" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Cyxuan0311&theme=tokyo-night&hide_border=true&area=true" 
+    width="90%"
+  />
 </p>
 
 ---
