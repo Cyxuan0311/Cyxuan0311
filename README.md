@@ -14,7 +14,7 @@
 ---
 
 ### ⚡ GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLW-7&layout=donut&langs_count=6&card_width=300&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=donut&langs_count=6&card_width=300&hide_border=true)
 
 <p align="center">
   <!-- 左侧：GitHub 统计卡片 | 右侧：语言饼图卡片（放大尺寸+优化饼图参数） -->
