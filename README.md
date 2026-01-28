@@ -39,6 +39,18 @@
 
 ---
 
+### 🛠 Tech Stack  
+<!-- 活动趋势图卡片 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,go,javascript,css,html" /><br>  
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,mysql,postgres,cmake,vue,nodejs,electron" /><br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" /><br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,sublime,vim" />
+</p>
+
 ### 📊 GitHub Activity  
 
 - ⭐️ **Repositories**: [Cyxuan0311 Repos](https://github.com/Cyxuan0311?tab=repositories)  
