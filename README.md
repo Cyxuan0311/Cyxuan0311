@@ -31,9 +31,9 @@
 ### 🛠 Tech Stack  
 <!-- 活动趋势图卡片 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,go,javascript,css,html" /><br>  
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,go,javascript,typescript,css,html" /><br>  
   <br>
-  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,mysql,postgres,cmake,vue,nodejs,electron" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,mysql,postgres,cmake,vue,nodejs,react,electron" /><br>
   <br>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" /><br>
   <br>
