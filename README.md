@@ -23,20 +23,10 @@
   />
   <!-- 语言分布饼图卡片 -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyxuan0311&layout=donut&langs_count=6&hide_border=true" 
-    height="280" 
-    width="45%"
-  />
-</p>
-
-<!-- 活动趋势图卡片 -->
-<p align="center">
-  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Cyxuan0311&theme=tokyo-night&hide_border=true&area=true" 
     width="90%"
   />
 </p>
-
 ---
 
 ### 🛠 Tech Stack  
